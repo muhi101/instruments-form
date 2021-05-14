@@ -1,6 +1,6 @@
 import React from "react";
 import "bootstrap/dist/css/bootstrap.css";
-import { Card, CardBody, CardHeader, CardTitle, Container } from "reactstrap";
+import { Card, CardBody, CardHeader, Container } from "reactstrap";
 import InstrumentsForm from "./components/InstrumentsForm";
 import Header from "./components/Header";
 
